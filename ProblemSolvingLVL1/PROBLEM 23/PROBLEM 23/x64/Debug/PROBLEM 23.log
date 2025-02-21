@@ -1,0 +1,4 @@
+﻿  PROBLEM 23.cpp
+C:\Users\mkiss\OneDrive\Bureau\SOLUTION FOR THE PROBLEM WITH THE PROF\PROBLEM 23\PROBLEM 23\PROBLEM 23.cpp(21,19): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\mkiss\OneDrive\Bureau\SOLUTION FOR THE PROBLEM WITH THE PROF\PROBLEM 23\PROBLEM 23\PROBLEM 23.cpp(27,14): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  PROBLEM 23.vcxproj -> C:\Users\mkiss\OneDrive\Bureau\SOLUTION FOR THE PROBLEM WITH THE PROF\PROBLEM 23\x64\Debug\PROBLEM 23.exe

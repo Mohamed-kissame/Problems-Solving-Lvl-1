@@ -1,0 +1,4 @@
+﻿  PROBLEM 19.cpp
+C:\Users\mkiss\OneDrive\Bureau\SOLUTION FOR THE PROBLEM WITH THE PROF\PROBLEM 19\PROBLEM 19\PROBLEM 19.cpp(19,19): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\mkiss\OneDrive\Bureau\SOLUTION FOR THE PROBLEM WITH THE PROF\PROBLEM 19\PROBLEM 19\PROBLEM 19.cpp(21,13): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  PROBLEM 19.vcxproj -> C:\Users\mkiss\OneDrive\Bureau\SOLUTION FOR THE PROBLEM WITH THE PROF\PROBLEM 19\x64\Debug\PROBLEM 19.exe

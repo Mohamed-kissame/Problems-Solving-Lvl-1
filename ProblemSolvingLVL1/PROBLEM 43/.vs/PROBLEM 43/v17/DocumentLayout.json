@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mkiss\\OneDrive\\Bureau\\SOLUTION FOR THE PROBLEM WITH THE PROF\\PROBLEM 43\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{342EE5D3-E823-4A7E-8CE0-AA804DA5E629}|PROBLEM 43\\PROBLEM 43.vcxproj|C:\\Users\\mkiss\\OneDrive\\Bureau\\SOLUTION FOR THE PROBLEM WITH THE PROF\\PROBLEM 43\\PROBLEM 43\\PROBLEM 43.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{342EE5D3-E823-4A7E-8CE0-AA804DA5E629}|PROBLEM 43\\PROBLEM 43.vcxproj|solutionrelative:PROBLEM 43\\PROBLEM 43.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PROBLEM 43.cpp",
+              "DocumentMoniker": "C:\\Users\\mkiss\\OneDrive\\Bureau\\SOLUTION FOR THE PROBLEM WITH THE PROF\\PROBLEM 43\\PROBLEM 43\\PROBLEM 43.cpp",
+              "RelativeDocumentMoniker": "PROBLEM 43\\PROBLEM 43.cpp",
+              "ToolTip": "C:\\Users\\mkiss\\OneDrive\\Bureau\\SOLUTION FOR THE PROBLEM WITH THE PROF\\PROBLEM 43\\PROBLEM 43\\PROBLEM 43.cpp",
+              "RelativeToolTip": "PROBLEM 43\\PROBLEM 43.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-28T19:15:35.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  PROBLEM 38.cpp
+C:\Users\mkiss\OneDrive\Bureau\SOLUTION FOR THE PROBLEM WITH THE PROF\PROBLEM 38\PROBLEM 38\PROBLEM 38.cpp(25,8): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mkiss\OneDrive\Bureau\SOLUTION FOR THE PROBLEM WITH THE PROF\PROBLEM 38\PROBLEM 38\PROBLEM 38.cpp(55,35): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  PROBLEM 38.vcxproj -> C:\Users\mkiss\OneDrive\Bureau\SOLUTION FOR THE PROBLEM WITH THE PROF\PROBLEM 38\x64\Debug\PROBLEM 38.exe

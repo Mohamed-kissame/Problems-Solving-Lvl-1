@@ -1,0 +1,4 @@
+﻿  PROBLEM 20.cpp
+C:\Users\mkiss\OneDrive\Bureau\SOLUTION FOR THE PROBLEM WITH THE PROF\PROBLEM 20\PROBLEM 20\PROBLEM 20.cpp(18,19): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\mkiss\OneDrive\Bureau\SOLUTION FOR THE PROBLEM WITH THE PROF\PROBLEM 20\PROBLEM 20\PROBLEM 20.cpp(20,13): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  PROBLEM 20.vcxproj -> C:\Users\mkiss\OneDrive\Bureau\SOLUTION FOR THE PROBLEM WITH THE PROF\PROBLEM 20\x64\Debug\PROBLEM 20.exe

@@ -1,0 +1,5 @@
+﻿  PROBLEM 31.cpp
+C:\Users\mkiss\OneDrive\Bureau\SOLUTION FOR THE PROBLEM WITH THE PROF\PROBLEM 31\PROBLEM 31\PROBLEM 31.cpp(20,9): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mkiss\OneDrive\Bureau\SOLUTION FOR THE PROBLEM WITH THE PROF\PROBLEM 31\PROBLEM 31\PROBLEM 31.cpp(21,9): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mkiss\OneDrive\Bureau\SOLUTION FOR THE PROBLEM WITH THE PROF\PROBLEM 31\PROBLEM 31\PROBLEM 31.cpp(22,9): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  PROBLEM 31.vcxproj -> C:\Users\mkiss\OneDrive\Bureau\SOLUTION FOR THE PROBLEM WITH THE PROF\PROBLEM 31\x64\Debug\PROBLEM 31.exe

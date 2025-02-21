@@ -1,0 +1,4 @@
+﻿  PROBLEM 40.cpp
+C:\Users\mkiss\OneDrive\Bureau\SOLUTION FOR THE PROBLEM WITH THE PROF\PROBLEM 40\PROBLEM 40\PROBLEM 40.cpp(21,25): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\mkiss\OneDrive\Bureau\SOLUTION FOR THE PROBLEM WITH THE PROF\PROBLEM 40\PROBLEM 40\PROBLEM 40.cpp(22,25): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  PROBLEM 40.vcxproj -> C:\Users\mkiss\OneDrive\Bureau\SOLUTION FOR THE PROBLEM WITH THE PROF\PROBLEM 40\x64\Debug\PROBLEM 40.exe
